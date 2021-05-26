@@ -1,6 +1,6 @@
 1.npm init -y
 2.npm install express mongoose  art-template express-art-template
-3app.js 主文件入口文件
+3.app.js 主文件入口文件
 npm install body-parser
  
 npm install joi
